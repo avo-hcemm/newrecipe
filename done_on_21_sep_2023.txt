@@ -1,0 +1,16 @@
+ 1091  git graph
+ 1092  git push origin -u avo-commit1:avo-remote-commit1
+ 1093  cd ..
+ 1094  cd newrecipe
+ 1095  git remote -v
+ 1096  nano prova.txt
+ 1097  git status
+ 1098  git add prova.txt
+ 1099  git commit -m "giusto prova"
+ 1100  git status
+ 1101  git push origin main
+ 1102  git switch -create btobd
+ 1103  git status
+ 1104  git branch
+ 1105  git switch --create btobd
+ 1106  git branch
